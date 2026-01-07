@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>EasyDMG</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 07 Jan 2026 16:50:22 +0800</pubDate>
+            <sparkle:version>260107</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="EasyDMG.zip" length="3277964" type="application/octet-stream" sparkle:edSignature="mvEmKFUecJwxpXStThLceoscMJrwyI5xh++RdJWYLgPsEUTdnCkBVg0BXRyXsU06zh6atqp53hWupHyieD/tCw=="/>
+        </item>
+    </channel>
+</rss>
