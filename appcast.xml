@@ -4,11 +4,11 @@
         <title>EasyDMG</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 07 Jan 2026 16:50:22 +0800</pubDate>
-            <sparkle:version>260107</sparkle:version>
+            <pubDate>Fri, 09 Jan 2026 11:44:00 +0800</pubDate>
+            <sparkle:version>260109</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="EasyDMG.zip" length="3277964" type="application/octet-stream" sparkle:edSignature="mvEmKFUecJwxpXStThLceoscMJrwyI5xh++RdJWYLgPsEUTdnCkBVg0BXRyXsU06zh6atqp53hWupHyieD/tCw=="/>
+            <enclosure url="https://jasonliu9625.github.io/EasyDMG_Updates/EasyDMG.zip" length="3470882" type="application/octet-stream" sparkle:edSignature="GxuCRqER9G4cIx7WkBcwCdPJAERf2VtyiX2qZLaU1mnecFoI1YhZmzEP5AoVlrOId8K7rRhej2GDhik91Ja0CA=="/>
         </item>
     </channel>
 </rss>
