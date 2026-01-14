@@ -4,11 +4,17 @@
         <title>EasyDMG</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 09 Jan 2026 11:44:00 +0800</pubDate>
-            <sparkle:version>260109</sparkle:version>
+            <pubDate>Wed, 14 Jan 2026 09:22:56 +0800</pubDate>
+            <sparkle:version>260114</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://jasonliu9625.github.io/EasyDMG_Updates/EasyDMG.zip" length="3470882" type="application/octet-stream" sparkle:edSignature="GxuCRqER9G4cIx7WkBcwCdPJAERf2VtyiX2qZLaU1mnecFoI1YhZmzEP5AoVlrOId8K7rRhej2GDhik91Ja0CA=="/>
+            <description><![CDATA[
+        		<h3>更新内容</h3>
+        			<ul>
+            			<li>Added support for Simplified Chinese and Traditional Chinese localization.</li>
+        			</ul>
+    			]]></description>
+            <enclosure url="https://jasonliu9625.github.io/EasyDMG_Updates/EasyDMG.zip" length="3478646" type="application/octet-stream" sparkle:edSignature="xICL0uIQC85MG55H5sTY+ub4QXMhCCmJ9cBkJwu0qSAJBrsJQTWp4TLGswndaq4RLYpQswSV+Hz8SYiCjfMEDg=="/>
         </item>
     </channel>
 </rss>
